@@ -13,6 +13,9 @@
         color: #333;
         padding-top: 90px;
     }
+* {
+    box-sizing: border-box;
+}
 
 /* BARRA SUPERIOR – NOME DO SITE */
 .top-bar {
