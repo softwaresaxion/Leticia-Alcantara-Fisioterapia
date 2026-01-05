@@ -195,6 +195,59 @@ body {
     border-radius: 50%;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
 }
+  /* ===== BOTÃO TEMA ===== */
+.top-bar {
+    box-sizing: border-box;
+}
+
+.toggle-theme {
+    font-size: 24px;
+    cursor: pointer;
+    user-select: none;
+    transition: transform 0.4s ease;
+}
+
+.toggle-theme.rotate {
+    transform: rotate(180deg);
+}
+
+/* ===== TRANSIÇÕES SUAVES ===== */
+body,
+.top-bar,
+.nav-bar,
+footer,
+.card,
+section h2 {
+    transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* ===== TEMA ESCURO ===== */
+body.dark {
+    background-color: #0f172a;
+    color: #e5e7eb;
+}
+
+body.dark .top-bar,
+body.dark .nav-bar,
+body.dark footer {
+    background-color: #020617;
+}
+
+body.dark .card {
+    background-color: #020617;
+    color: #e5e7eb;
+}
+
+body.dark section h2 {
+    color: #5eead4;
+}
+
+  .top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
 </style>
 </head>
 
@@ -312,6 +365,16 @@ body {
     <p>© 2026 - Fisioterapia Saúde | Todos os direitos reservados</p>
 </footer>
 
+  <script>
+    const toggle = document.getElementById("toggleTheme");
+
+    toggle.addEventListener("click", () => {
+        document.body.classList.toggle("dark");
+        toggle.classList.toggle("rotate");
+        toggle.textContent = document.body.classList.contains("dark") ? "🌙" : "☀️";
+    });
+</script>
+  
 <script>
     const imagens = [
         "https://ortotraumasamaritano.com.br/wp-content/uploads/2023/03/10-Fisioterapia-Ortopedica.jpg",
