@@ -254,6 +254,11 @@ body.dark section h2 {
 <body>
 
 <div class="top-bar">
+    <h2> Andrelly Aguiar | Fisioterapia</h2>
+    <span class="toggle-theme" id="toggleTheme">☀️</span>
+</div>
+
+<div class="top-bar">
     <h2>Letícia Alcântara | </h2>
 </div>
 
