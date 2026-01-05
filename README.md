@@ -21,7 +21,7 @@
         padding: 15px 20px;
         position: fixed;
         top: 0;
-        max-width: 1100px;
+        width: 100%;
         z-index: 1001;
         text-align: left;
     }
