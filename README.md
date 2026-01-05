@@ -1,50 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Leticia-Alcantara-Fisioterapia</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Leticia-Alcantara-Fisioterapia" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://softwaresaxion.github.io/Leticia-Alcantara-Fisioterapia/" />
-<meta property="og:url" content="https://softwaresaxion.github.io/Leticia-Alcantara-Fisioterapia/" />
-<meta property="og:site_name" content="Leticia-Alcantara-Fisioterapia" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Leticia-Alcantara-Fisioterapia" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Leticia-Alcantara-Fisioterapia","name":"Leticia-Alcantara-Fisioterapia","url":"https://softwaresaxion.github.io/Leticia-Alcantara-Fisioterapia/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/Leticia-Alcantara-Fisioterapia/assets/css/style.css?v=48d8b41a1d2e3e1bdf5c0f70c98c2077a0957c88">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Leticia-Alcantara-Fisioterapia/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://softwaresaxion.github.io/Leticia-Alcantara-Fisioterapia/">Leticia-Alcantara-Fisioterapia</a></h1>
-      
-
-      
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Letícia Alcântara | Fisioterapeuta</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fisioterapia | Atendimento Humanizado</title>
 
 <style>
     body {
@@ -54,34 +13,27 @@
         color: #333;
         padding-top: 90px;
     }
-* {
-    box-sizing: border-box;
-}
 
-/* BARRA SUPERIOR – NOME DO SITE */
-.top-bar {
-    background-color: #0f766e;
-    color: #fff;
-    padding: 15px 20px;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    left: 0;
-    right: 0;
-    z-index: 1001;
-    text-align: left;
-}
+    /* BARRA SUPERIOR – NOME DO SITE */
+    .top-bar {
+        background-color: #0f766e;
+        color: #fff;
+        padding: 15px 20px;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1001;
+        text-align: left;
+    }
 
-/* BARRA INFERIOR – MENU */
-.nav-bar {
-    background-color: #115e59;
-    position: fixed;
-    top: 50px;
-    width: 100%;
-    left: 0;
-    right: 0;
-    z-index: 1000;
-}
+    /* BARRA INFERIOR – MENU */
+    .nav-bar {
+        background-color: #115e59;
+        position: fixed;
+        top: 60px;
+        width: 100%;
+        z-index: 1000;
+    }
 
     .nav-bar nav {
         display: flex;
@@ -93,7 +45,7 @@
     .nav-bar nav a {
         color: #fff;
         text-decoration: none;
-        padding: 80px 20px 4px;
+        padding: 50px 20px 4px;
         touch-action: manipulation;
         display: flex;
         flex-direction: column;
@@ -102,13 +54,13 @@
     }
 
     .nav-bar nav a .icone {
-        font-size: 20px;
+        font-size: 26px;
         line-height: 1;
     }
 
     .nav-bar nav a .texto {
         font-size: 14px;
-        margin-top: 10px;
+        margin-top: 6px;
         text-align: center;
     }
 
@@ -231,66 +183,14 @@
     border-radius: 50%;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
 }
-
-  /* ===== BOTÃO TEMA ===== */
-.top-bar {
-    box-sizing: border-box;
-}
-
-.toggle-theme {
-    font-size: 24px;
-    cursor: pointer;
-    user-select: none;
-    transition: transform 0.4s ease;
-}
-
-.toggle-theme.rotate {
-    transform: rotate(180deg);
-}
-
-/* ===== TRANSIÇÕES SUAVES ===== */
-body,
-.top-bar,
-.nav-bar,
-footer,
-.card,
-section h2 {
-    transition: background-color 0.4s ease, color 0.4s ease;
-}
-
-/* ===== TEMA ESCURO ===== */
-body.dark {
-    background-color: #0f172a;
-    color: #e5e7eb;
-}
-
-body.dark .top-bar,
-body.dark .nav-bar,
-body.dark footer {
-    background-color: #020617;
-}
-
-body.dark .card {
-    background-color: #020617;
-    color: #e5e7eb;
-}
-
-body.dark section h2 {
-    color: #5eead4;
-}
-
-  .top-bar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    box-sizing: border-box;
-}
 </style>
 </head>
 
 <body>
 
-<div class="top-bar"> <h2> Letícia Alcântara|Fisioterapeuta</h2> <span class="toggle-theme" id="toggleTheme">☀️</span> </div>
+<div class="top-bar">
+    <h2>Letícia Alcântara | Fisioterapia</h2>
+</div>
 
 <div class="nav-bar">
     <nav>
@@ -312,7 +212,7 @@ body.dark section h2 {
 <section class="hero">
     <h1>Cuidado, movimento e qualidade de vida</h1>
     <p>Atendimento fisioterapêutico humanizado e personalizado</p>
-    <a class="btn" href="https://wa.me/5581986321182?text=Olá,%20gostaria%20de%20agendar%20um%20atendimento%20de%20fisioterapia." target="_blank">
+    <a class="btn" href="https://wa.me/5581985184913?text=Olá,%20gostaria%20de%20agendar%20um%20atendimento%20de%20fisioterapia." target="_blank">
         Agendar pelo WhatsApp
     </a>
 </section>
@@ -321,7 +221,7 @@ body.dark section h2 {
     <h2>Galeria de Atendimento</h2>
     <div class="carrossel">
 
-        <img id="imagemCarrossel" src="https://ortotraumasamaritano.com.br/wp-content/uploads/2023/03/10-Fisioterapia-Ortopedica.jpg" alt="Fisioterapia" />
+        <img id="imagemCarrossel" src="https://ortotraumasamaritano.com.br/wp-content/uploads/2023/03/10-Fisioterapia-Ortopedica.jpg" alt="Fisioterapia">
 
     </div>
 </section>
@@ -330,7 +230,7 @@ body.dark section h2 {
     <h2>Sobre a fisioterapeuta</h2>
 
     <div class="foto-sobre">
-        <img src="https://scontent.cdninstagram.com/v/t51.29350-15/306865982_632671525229479_6977420807138106493_n.webp?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ig_cache_key=MjkyNzg3MDM0MDkzMzEyNjU0Mw%3D%3D.3-ccb7-5&amp;ccb=7-5&amp;_nc_sid=58cdad&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&amp;_nc_ohc=0JATniwozH8Q7kNvwFVXDEv&amp;_nc_oc=Adly1pmx5roICpEyCHJIq__htzo3sqpywK4HqajjSs9YUPYIXC4BtVuYwvxHSSvofvaDyc2ZT-P0qaFlkATfFeir&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BU1jIK0VTvzGuVFBrOMjkQ&amp;oh=00_AfprViIOouTjKdKmQJ3jEYWWhp48J-CdPP2xFzutSUGCvQ&amp;oe=695F9D1D" alt="Fisioterapeuta Letícia Alcântara" />
+        <img src="https://scontent.cdninstagram.com/v/t51.29350-15/306865982_632671525229479_6977420807138106493_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MjkyNzg3MDM0MDkzMzEyNjU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=0JATniwozH8Q7kNvwFVXDEv&_nc_oc=Adly1pmx5roICpEyCHJIq__htzo3sqpywK4HqajjSs9YUPYIXC4BtVuYwvxHSSvofvaDyc2ZT-P0qaFlkATfFeir&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BU1jIK0VTvzGuVFBrOMjkQ&oh=00_AfprViIOouTjKdKmQJ3jEYWWhp48J-CdPP2xFzutSUGCvQ&oe=695F9D1D" alt="Fisioterapeuta Letícia Alcântara">
     </div>
 
     <p>
@@ -388,10 +288,10 @@ body.dark section h2 {
 <section id="contato" class="contato">
     <h2>Contato</h2>
     <p>📍 Recife - PE</p>
-    <p>📞 (81) 98632-1182</p>
+    <p>📞 (81) 98518-4913</p>
     <p>📧 contato@fisioterapiasaude.com</p>
-    <br />
-    <a class="btn" href="https://wa.me/5581986321182?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20atendimentos." target="_blank">
+    <br>
+    <a class="btn" href="https://wa.me/5581985184913?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20atendimentos." target="_blank">
         Falar no WhatsApp
     </a>
 </section>
@@ -400,16 +300,6 @@ body.dark section h2 {
     <p>© 2026 - Fisioterapia Saúde | Todos os direitos reservados</p>
 </footer>
 
-  <script>
-    const toggle = document.getElementById("toggleTheme");
-
-    toggle.addEventListener("click", () => {
-        document.body.classList.toggle("dark");
-        toggle.classList.toggle("rotate");
-        toggle.textContent = document.body.classList.contains("dark") ? "🌙" : "☀️";
-    });
-</script>
-  
 <script>
     const imagens = [
         "https://ortotraumasamaritano.com.br/wp-content/uploads/2023/03/10-Fisioterapia-Ortopedica.jpg",
@@ -433,12 +323,4 @@ body.dark section h2 {
 </script>
 
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
 </html>
