@@ -278,7 +278,7 @@ body.dark section h2 {
 <section class="hero">
     <h1>Cuidado, movimento e qualidade de vida</h1>
     <p>Atendimento fisioterapêutico humanizado e personalizado</p>
-    <a class="btn" href="https://wa.me/5581985184913?text=Olá,%20gostaria%20de%20agendar%20um%20atendimento%20de%20fisioterapia." target="_blank">
+    <a class="btn" href="https://wa.me/5581986321182?text=Olá,%20gostaria%20de%20agendar%20um%20atendimento%20de%20fisioterapia." target="_blank">
         Agendar pelo WhatsApp
     </a>
 </section>
@@ -354,10 +354,10 @@ body.dark section h2 {
 <section id="contato" class="contato">
     <h2>Contato</h2>
     <p>📍 Recife - PE</p>
-    <p>📞 (81) 98518-4913</p>
+    <p>📞 (81) 98632-1182</p>
     <p>📧 contato@fisioterapiasaude.com</p>
     <br>
-    <a class="btn" href="https://wa.me/5581985184913?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20atendimentos." target="_blank">
+    <a class="btn" href="https://wa.me/5581986321182?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20atendimentos." target="_blank">
         Falar no WhatsApp
     </a>
 </section>
