@@ -21,7 +21,7 @@
         padding: 15px 20px;
         position: fixed;
         top: 0;
-        width: 100%;
+        max-width: 1100px;
         z-index: 1001;
         text-align: left;
     }
@@ -243,8 +243,10 @@ body.dark section h2 {
 <body>
 
 <div class="top-bar">
-    <h2> Letícia Alcântara | Fisioterapeuta</h2>
-    <span class="toggle-theme" id="toggleTheme">☀️</span>
+    <div class="top-bar-inner">
+        <h2>Letícia Alcântara | Fisioterapeuta</h2>
+        <span class="toggle-theme" id="toggleTheme">☀️</span>
+    </div>
 </div>
 
 <div class="nav-bar">
