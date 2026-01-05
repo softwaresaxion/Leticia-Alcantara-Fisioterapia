@@ -249,7 +249,7 @@ body.dark section h2 {
 
 <body>
 
-<div class="top-bar"> <h2> Letícia Alcântara | Fisioterapeuta</h2> <span class="toggle-theme" id="toggleTheme">☀️</span> </div>
+<div class="top-bar"> <h2> Letícia Alcântara|Fisioterapeuta</h2> <span class="toggle-theme" id="toggleTheme">☀️</span> </div>
 
 <div class="nav-bar">
     <nav>
