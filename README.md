@@ -35,7 +35,7 @@
 .nav-bar {
     background-color: #115e59;
     position: fixed;
-    top: 90px;
+    top: 50px;
     width: 100%;
     left: 0;
     right: 0;
